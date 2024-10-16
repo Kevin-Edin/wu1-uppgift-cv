@@ -22,3 +22,5 @@ Sedan kan du skriva i loggform om vad du har arbetat med från planering och hur
 Skriv även sådant som du måste arbeta med nästa pass.
 
 Dag 1: Forkade detta repot, skrev ner en plan och skissade up webbsidan med paint
+
+Dag 2: Klurade ut hur man använder klasser och hermade min första skiss väldigt bra
