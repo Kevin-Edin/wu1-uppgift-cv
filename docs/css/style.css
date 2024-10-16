@@ -5,7 +5,7 @@
   }
 
   body {
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 1.2rem;
     color: rgb(237, 166, 0);
     background-color: #1f1f1f;
@@ -15,6 +15,13 @@ main, header {
     max-width: 80ch;
     margin-inline: auto;
     text-align: center;
+    font-size: 2rem;
+    line-height: 1rem;
+}
+
+img {
+    max-width: 19.1rem;
+    height: 25.5rem;
 }
 
 h1 {
