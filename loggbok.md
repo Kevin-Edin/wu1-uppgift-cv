@@ -24,3 +24,5 @@ Skriv även sådant som du måste arbeta med nästa pass.
 Dag 1: Forkade detta repot, skrev ner en plan och skissade up webbsidan med paint
 
 Dag 2: Klurade ut hur man använder klasser och hermade min första skiss väldigt bra
+
+Dag 3: Snabb gjorde andra sidan för att få klart uppgiften, är inte helt nöjd med den men den får duga. Lade också till logotypen.
