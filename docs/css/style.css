@@ -1,21 +1,58 @@
 
   .logo {
-    max-width: 3.82rem;
-    height: 5.1rem;
+    max-width: 18rem;
+    max-height: 18rem;
+    display: flex;
+    position: relative;
+    top: -7.5rem;
+    margin-bottom: -7.5rem;
   }
 
   body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.2rem;
-    color: rgb(237, 166, 0);
+    color: rgb(255, 206, 0);
     background-color: #1f1f1f;
+    padding: 1rem;
+}
+
+h3 {
+    margin-top: 8rem;
+    text-decoration: underline;
+}
+
+.underTitle {
+    margin-top: 4rem;
+    font-style: italic;
+}
+
+h4 {
+    margin-top: 8rem;
+}
+
+.profExperience {
+    max-width: 80ch;
+    margin-inline: 20rem;
+    font-size: 1.8rem;
+    text-align: center;
+    padding: 1rem;
+    line-height: 2rem;
+}
+
+.achievedGoals {
+    max-width: 80ch;
+    margin-inline: 20rem;
+    font-size: 1.4rem;
+    text-align: left;
+    padding: 1rem;
+    line-height: 2rem
 }
 
 main, header {
     max-width: 80ch;
     margin-inline: auto;
     text-align: center;
-    font-size: 2rem;
+    font-size: 2.2rem;
     line-height: 1rem;
 }
 
